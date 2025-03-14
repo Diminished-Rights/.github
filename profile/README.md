@@ -1,12 +1,15 @@
-#The DRS Official Organization 
+# The DRS Official Organization 
+
 This is the official github DRS organization.
 We strive for the equal representation of all triads, as our music teacher is strongly against diminished chords.
 
-##About
+## About
+
 The [Society for Panchordal Equality and Justice for Diminished Chords](https://diminished-rights.onrender.com), or the Diminished Rights Society for short, or the DRS for shortER, is a organization that, as the name suggests, tries to get Panchordal Equality and Justice for Diminished chords.
 
-##Our Website
-Due to technical reasons regarding passwords, our official website's github is private; meaning that you cannot accually see this in the github site.
+## Our Website
+
+Due to technicalreasons regarding passwords, our official website's github is private; meaning that you cannot accually see this in the github site.
 HOWEVER, we are using [onRender](https://dashboard.render.com) to host our FULLSTACK website from this github organization, so check it out [here](https://diminished-rights.onrender.com)!
 
 <!--
